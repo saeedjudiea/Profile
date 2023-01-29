@@ -1,7 +1,3 @@
-[submodule "libfoo"]
-	path = include/foo
-	url = git://foo.com/git/lib.git
-
-[submodule "libbar"]
-	path = include/bar
-	url = git://bar.com/git/lib.git
+[submodule "Profile"]
+	path = include/Profile
+	url = https://github.com/saeedjudiea/Profile.git
